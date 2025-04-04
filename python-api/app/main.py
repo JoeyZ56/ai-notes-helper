@@ -24,5 +24,6 @@ class NoteRequest(BaseModel):
 def summarize_note(note: NoteRequest):
     #Temp dummy notes
     return {
+        
         "Summary": f"Summary of: {note.text[:50]}..."
     }
