@@ -1,0 +1,7 @@
+1. Create the /summarize POST endpoint in FastAPI
+
+2. Add a textarea + “Summarize” button in the frontend
+
+3. Wire up OpenRouter (free AI API) for real summaries
+
+4. Add feedback/loading UI, then polish from there
